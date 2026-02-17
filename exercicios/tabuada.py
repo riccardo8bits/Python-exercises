@@ -1,0 +1,15 @@
+tabuada = int(input("Digite um numero para saber sua tabuada: "))
+
+
+print(30* "-")
+print("{} X 1 = {}".format(tabuada, tabuada*1))
+print("{} X 2 = {}".format(tabuada, tabuada*2))
+print("{} X 3 = {}".format(tabuada, tabuada*3))
+print("{} X 4 = {}".format(tabuada, tabuada*4))
+print("{} X 5 = {}".format(tabuada, tabuada*5))
+print("{} X 6 = {}".format(tabuada, tabuada*6))
+print("{} X 7 = {}".format(tabuada, tabuada*7))
+print("{} X 8 = {}".format(tabuada, tabuada*8))
+print("{} X 9 = {}".format(tabuada, tabuada*9))
+print("{} X 10 = {}".format(tabuada, tabuada*10))
+print(30* "-")
